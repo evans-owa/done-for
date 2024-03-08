@@ -2,3 +2,6 @@
  of the 
  of the work that was applied is no good
  finally
+ done for the git commit version controls
+ finally done and done
+
